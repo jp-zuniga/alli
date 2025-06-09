@@ -1,0 +1,18 @@
+# cargo compilations:
+debug/
+target/
+
+# rustfmt backups:
+**/*.rs.bk
+
+# rustc debug info (for MSVC windows builds):
+*.pdb
+
+# cargo mutants testing data:
+**/mutants.out*/
+
+#  rustrover:
+# .idea/
+
+#  vscode:
+# .vscode/

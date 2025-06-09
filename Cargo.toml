@@ -1,0 +1,7 @@
+[package]
+name = "alli"
+description = "Modern linear algebra library written in Rust, with simplicity, efficiency, and correctness in mind."
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
